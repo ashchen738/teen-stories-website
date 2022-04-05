@@ -132,14 +132,6 @@ const Header = ({ addClass, openSearch }) => {
                                             </li>
                                         </ul>
                                     </li>
-                                    <li className="list-inline-item">
-                                        <Link href="http://demos.alithemes.com/html/stories/docs/">
-                                            <a>
-                                                <i className="elegant-icon icon_document_alt mr-5"></i>
-                                                Document
-                                            </a>
-                                        </Link>
-                                    </li>
                                 </ul>
                                 <span className="vertical-divider mr-20 ml-20 d-none d-md-inline"></span>
                                 <button className="search-icon d-none d-md-inline" onClick={openSearch}>
@@ -147,9 +139,6 @@ const Header = ({ addClass, openSearch }) => {
                                         <i className="elegant-icon icon_search mr-5"></i>
                                         Search
                                     </span>
-                                </button>
-                                <button className="btn btn-radius bg-primary text-white ml-15 font-small box-shadow">
-                                    Buy Now
                                 </button>
                             </div>
                         </div>

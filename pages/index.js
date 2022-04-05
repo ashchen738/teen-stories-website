@@ -18,11 +18,11 @@ function Home() {
                                         ></span>
                                     </p>
                                     <h2>
-                                        TEEN<span>STORIES</span>
+                                        Teen <span>Stories</span>
                                     </h2>
-                                    <h3 className="mb-20">Yes, We Care</h3>
+                                    <h3 className="mb-20">Yes, We Care!</h3>
                                     <h5 className="text-muted">
-                                        A platform for teens from different cultures to share their stories, their cultures, and their failures and triumph...
+                                        A platform for teens from different cultures to share their stories, cultures, failures, and triumph...
                                     </h5>
                                     <form className="input-group form-subcriber mt-30 d-flex">
                                         <input
@@ -39,10 +39,10 @@ function Home() {
                                     </form>
                                 </div>
                                 <div className="col-lg-6 text-right d-none d-lg-block">
-                                    <img
-                                        src="/assets/imgs/authors/featured.png"
-                                        alt=""
-                                    />
+                                    <video height = "400" controls alt="spinning globe">
+                                        <source src="public/assets/imgs/globe.mp4" type="video/mp4"/>
+                                    Your browser does not support the video tag.
+                                    </video>
                                 </div>
                             </div>
                         </div>
