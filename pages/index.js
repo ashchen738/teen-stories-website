@@ -18,13 +18,11 @@ function Home() {
                                         ></span>
                                     </p>
                                     <h2>
-                                        Hello, I’m <span>Steven</span>
+                                        TEEN<span>STORIES</span>
                                     </h2>
-                                    <h3 className="mb-20"> Welcome to my blog</h3>
+                                    <h3 className="mb-20">Yes, We Care</h3>
                                     <h5 className="text-muted">
-                                        Don't miss out on the latest news about
-                                        Travel tips, Hotels review, Food
-                                        guide...
+                                        A platform for teens from different cultures to share their stories, their cultures, and their failures and triumph...
                                     </h5>
                                     <form className="input-group form-subcriber mt-30 d-flex">
                                         <input
